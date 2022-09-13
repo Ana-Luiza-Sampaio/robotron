@@ -65,7 +65,7 @@ function atualizaEstatisticas(peca){
 };
 
 function mudaCor(cor){
-    document.querySelector(".robo").src="img/Robotron_"+cor+".png";
+    document.querySelector(".robo").src="img/Robotron_" + cor + ".png";
 }
 
 
